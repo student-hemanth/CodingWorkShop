@@ -1,6 +1,7 @@
-🚨Goal is Complete 5Days Challenge in CodingWorkShop in Java Language
+🚨Goal is Complete 5Days Challenge in CodingWorkShop in Java Language.
+OUT OF THIS I COVERED 4 QUESTIONS [DAY1] 🔍
 
-Questions include are 
+Questions include are ::
 ____________________________________________________________________________________________________________________________________________________________________________
 1 -Function getSum to get Sum of numbers
 ____________________________________________________________________________________________________________________________________________________________________________
@@ -35,4 +36,4 @@ ________________________________________________________________________________
 17 - Function to print intersection or common elements of two integer arrays  getCommonElements
         ____________________________________________________________________________________________________________________________________________________________________________
 
-OUT OF THIS I COVERED 4 QUESTIONS 🔍
+
