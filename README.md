@@ -1,5 +1,5 @@
 🚨Goal is Complete 5Days Challenge in CodingWorkShop in Java Language.
-OUT OF THIS I COVERED 5 to 9 QUESTIONS [DAY1] 🔍
+OUT OF THIS I COVERED 10 to 14 QUESTIONS [DAY1] 🔍
 
 Questions include are ::
 ____________________________________________________________________________________________________________________________________________________________________________
